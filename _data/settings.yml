@@ -9,5 +9,5 @@ navbarheight: 55px
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
