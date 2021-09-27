@@ -6,6 +6,8 @@ image: ../uploads/marcel-strauss-oyuxwog4bpy-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 ---
-![](../uploads/marcel-strauss-oyuxwog4bpy-unsplash.jpg)
 
-\*insert article\*
+
+![]()
+
+\*Insert Text Here\*
