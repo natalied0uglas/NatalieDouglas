@@ -6,4 +6,4 @@ image: ../uploads/soul-van-schaik-qok92d0l5r0-unsplash.jpg
 title_color: "#ff7de6"
 comments: false
 ---
-\*Insert Text Here\*
+Keep you GIN up and let the party be-GIN!
