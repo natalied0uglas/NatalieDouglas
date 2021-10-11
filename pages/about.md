@@ -9,6 +9,6 @@ layout: page
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 Selecting your poison for the night is certainly a WHISKEY business. This blog aims to helps us understand how the Typface (font and overall presentation of the text,) can influence our choice.
