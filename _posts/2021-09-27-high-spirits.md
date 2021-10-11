@@ -3,7 +3,7 @@ layout: post
 title: .
 date: 2021-09-27T09:41:35.383Z
 image: ../uploads/24b384b9-01d8-493e-b61c-dbb1e7905de3.png
-title_color: "#f9ee54"
+title_color: "#39115e"
 comments: false
 ---
 Whether you’re seeking a wild night out or a night to not remember, vodka might not always be a wise answer but it’s always worth a SHOT! 
