@@ -2,7 +2,7 @@
 layout: post
 title: High Spirits !
 date: 2021-09-27T09:41:35.383Z
-image: ../uploads/marcel-strauss-oyuxwog4bpy-unsplash.jpg
+image: ../uploads/24b384b9-01d8-493e-b61c-dbb1e7905de3.png
 title_color: "#f9ee54"
 comments: false
 ---
