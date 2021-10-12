@@ -1,7 +1,7 @@
 ---
 header_feature_image: /uploads/log.jpg
 title: About
-image: ../uploads/3e39e0bd-5b84-43ab-8824-276903ac63e4.png
+image: ../uploads/d6e9d4bb-98b4-4635-afe7-1a0bd6c73c75.png
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
