@@ -17,7 +17,7 @@ As one unfortunately cannot taste each Vodka brand before purchasing (really **V
 
 # \
 
-# *Grey Goose Vodka: £30.00*
+***Grey Goose Vodka:** £30.00*
 
 The regal royal blue ‘Albertus’ font mesmerises and captivates its consumer. Promise of enticing luxury and class is what the title emits: ‘Grey Goose Vodka.’ 
 
@@ -30,6 +30,6 @@ However fancy this all may seem, the idea of paying £30 for a good night as opp
 
 # \
 
-# *Smirnoff Vodka: £12.75*
+***Smirnoff Vodka:** £12.75*
 
 White lettering in bold ‘Russian Quality' font is cushioned by a rebellious red background and laced with a gold boarder. This strong, eye catching brand’s use of boldness visually guarantees a strong hangover for the following morning (a VERY good sign for a VERY successful night.) In high cap-height and highly contrasted letters, the overall shape of the title creates and oval effect, with each end appearing to be slightly tugged downwards. Having this minor change in angle draws the eye, as it contradicts the natural shape of the tall bottle. One could therefore be drawn to such a label with the initial thought of thinking the slanting of characters was a mistake on the branding behalf. However, this purposeful position ensures we linger long enough to consider purchasing our poison for the night.
