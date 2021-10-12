@@ -2,7 +2,7 @@
 header_feature_image: /uploads/log.jpg
 title: About
 image: ../uploads/8ee869df-2514-42a4-842b-9c15ee69dbd6.jpeg
-subtitle: Alcoholic Typeface = AlcoTypo
+subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
 layout: page
