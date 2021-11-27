@@ -2,6 +2,7 @@
 layout: post
 title: Amaretto or am I Right!?
 date: 2021-11-27T17:20:30.435Z
+image: ../uploads/6ae491ac-9580-4ec4-8ab7-1630f5db8bfa.jpeg
 title_color: "#ffffff"
 comments: false
 ---
