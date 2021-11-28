@@ -2,6 +2,7 @@
 layout: post
 title: Partner in Wine...
 date: 2021-11-28T11:46:18.480Z
+image: ../uploads/6954fcf3-e6d8-4dd3-819d-367b34e3bd62.png
 title_color: "#ffffff"
 comments: false
 ---
